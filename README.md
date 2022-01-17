@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @akshat
-- 👀 I’m interested in Blockchain Technology
+- 👋 Hi, I’m Akshat
+- 👀 I’m am Blockchain Developer
 - 🌱 I’m currently learning Ethereum HyperLedger
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me akshat@solulab.com
