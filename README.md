@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Akshat
-- 👀 I’m am Blockchain Developer
-- 🌱 I’m currently learning Ethereum
+- 👀 I’m an Blockchain Developer
 - 📫 How to reach me akshat@solulab.com
